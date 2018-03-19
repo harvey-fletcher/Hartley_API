@@ -1,0 +1,2 @@
+#We never want to include the database file
+database.php
